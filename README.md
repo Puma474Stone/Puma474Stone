@@ -3,7 +3,7 @@
 
 ## Вот что я умею 
 
-[Курсовой проект к модулю "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1L5h3kylbgAxWP3Lru4ipjAzLwr-AcIZs/edit?usp=sharing&ouid=110984004547381413889&rtpof=true&sd=true)
+[Курсовой проект к модулю "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1A9S0Ao2VujMsVZnnWVtEGSZTCHRLpNEI/edit?usp=sharing&ouid=110984004547381413889&rtpof=true&sd=true)
 
 ## Сертификаты Нетологии 
 [Сертификат Git](https://drive.google.com/file/d/1dcg24_22-ElQX4PSb0RSi5ad7lqSepSJ/view?usp=sharing)
