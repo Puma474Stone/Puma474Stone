@@ -10,7 +10,7 @@
 
 [Сертификат об окончании модуля ручной тестировки](https://drive.google.com/file/d/12_H9bGk6PuVUAlJYKhJDoDPgHlEoK2d6/view?usp=sharing)
 
-[Сертификат о прохождении моделя Java](https://drive.google.com/file/d/1ZRKgbv6ZgY4pNerzcusYoi9MRegQ3l8k/view?usp=sharing)
+[Сертификат о прохождении модуля Java](https://drive.google.com/file/d/1ZRKgbv6ZgY4pNerzcusYoi9MRegQ3l8k/view?usp=sharing)
 
 
 
